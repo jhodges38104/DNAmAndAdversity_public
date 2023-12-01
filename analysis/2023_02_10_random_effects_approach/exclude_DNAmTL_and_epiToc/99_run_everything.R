@@ -1,0 +1,11 @@
+library(here)
+
+source(here("exclude_DNAmTL_and_epiToc/00_setup.R"))
+source(here("exclude_DNAmTL_and_epiToc/01_helper_variables.R"))
+source(here("exclude_DNAmTL_and_epiToc/02_restructure_to_long_format.R"))
+source(here("exclude_DNAmTL_and_epiToc/03_mbms_random_effects.R"))
+source(here("exclude_DNAmTL_and_epiToc/04_mesa_random_effects.R"))
+source(here("exclude_DNAmTL_and_epiToc/05_mbms_traditional_approach.R"))
+source(here("exclude_DNAmTL_and_epiToc/06_mesa_traditional_approach.R"))
+source(here("exclude_DNAmTL_and_epiToc/07_clean_results.R"))
+source(here("exclude_DNAmTL_and_epiToc/08_plot_results.R"))

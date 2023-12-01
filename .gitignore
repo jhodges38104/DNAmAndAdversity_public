@@ -1,0 +1,16 @@
+.DS_Store
+**/*.DS_Store
+
+### R ###
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# User-specific files
+.Ruserdata
+
+# RStudio files
+.Rproj.user/

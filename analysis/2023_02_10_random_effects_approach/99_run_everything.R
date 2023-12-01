@@ -1,0 +1,12 @@
+library(here)
+
+source(here("00_setup.R"))
+source(here("01_helper_variables.R"))
+source(here("02_restructure_to_long_format.R"))
+source(here("03_mbms_random_effects.R"))
+source(here("04_mesa_random_effects.R"))
+source(here("05_mbms_traditional_approach.R"))
+source(here("06_mesa_traditional_approach.R"))
+source(here("07_clean_results.R"))
+source(here("08_plot_results.R"))
+
