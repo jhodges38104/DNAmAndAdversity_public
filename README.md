@@ -55,27 +55,3 @@ developed in 2018.
 Aim 3: Analyze if the methylation sites and “clocks” associated with both the
 study exposures and health outcomes mediate these exposure-outcomes
 associations, thereby contributing to health inequities.
-
-
-#### MBMS Background Related to Discrimination and Health Outcomes
-
-Among our many relevant study findings,25-27 black vs. white MBMS
-participants had higher exposure to racial discrimination and socioeconomic
-deprivation, and fared worse for most of the health outcomes.25-27 In both
-groups, exposure to black carbon particles increased with census tract
-poverty.79,80 Moreover, key cardiometabolic outcomes were associated with
-racial discrimination solely among the black participants, but with economic
-hardship among both black and white participants.25-27 For example, the
-Framingham CVD 10-year risk score, which we computed using gender-specific
-values for age, TD2, smoking, treated and untreated blood pressure, total
-cholesterol, HDL cholesterol, and body mass index (BMI),73 was positively
-associated (i.e., increased) with: (a) racial inequality solely among the
-black participants: for a 1-unit increase in the continuous self-report
-Experience of Discrimination (EOD) scale (range: 0-9), β = 0.04 (95% CI 0.01,
-0.7); for Jim Crow vs. non-Jim Crow birthplace, β = 0.57 (95% CI 0.38,
-0.76),26 and (b) low education among both the black and white participants:
-the black and white beta coefficients for linear regression, comparing
-persons with < high school vs. ≥ 4 years college, were, respectively: 0.33
-(95% confidence interval (CI) 0.01, 0.65) and 0.74 (95% CI 0.41, 1.07).26
-
-
