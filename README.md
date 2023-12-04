@@ -1,6 +1,17 @@
 # DNA methylation & adversity: pathways from exposures to health inequities
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10246947.svg)](https://doi.org/10.5281/zenodo.10246947)
 
+## Grant Information
+
+- Project Title: DNA methylation & adversity: pathways from exposures to health inequities
+- Project Number: 5R01MD014304-04
+- Opportunity Number: PAR-16-355  
+- Contact PI/Project Leader: KRIEGER, NANCY; RELTON, CAROLINE
+- Awardee Organization: HARVARD SCHOOL OF PUBLIC HEALTH
+- Project Start Date: 01-September 2019
+- Project End Date: 31-March-2024
+- For more information please visit: https://reporter.nih.gov/project-details/10363700
+
 ## Project Narrative 
 
 Our study will test novel hypotheses about how one type of epigenetic
@@ -56,13 +67,3 @@ developed in 2018.
 Aim 3: Analyze if the methylation sites and “clocks” associated with both the
 study exposures and health outcomes mediate these exposure-outcomes
 associations, thereby contributing to health inequities.
-
-## Grant Information
-- Project Title: DNA methylation & adversity: pathways from exposures to health inequities
-- Project Number: 5R01MD014304-04
-- Opportunity Number: PAR-16-355  
-- Contact PI/Project Leader: KRIEGER, NANCY; RELTON, CAROLINE
-- Awardee Organization: HARVARD SCHOOL OF PUBLIC HEALTH
-- Project Start Date: 01-September 2019
-- Project End Date: 31-March-2024
-- For more information please visit: https://reporter.nih.gov/project-details/10363700
